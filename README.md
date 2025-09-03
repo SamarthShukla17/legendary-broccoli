@@ -1,24 +1,6 @@
 Huffman Coding File Compressor & Decompressor
 A command-line C++ tool for lossless file compression and decompression using the classic Huffman coding algorithm. This utility supports text, binary, and image files, delivering efficient space savings for files with repeating patterns.
 
-Table of Contents
-Features
-
-How It Works
-
-Getting Started
-
-Compilation
-
-Usage
-
-Supported File Types
-
-Compression Analytics
-
-Contributing
-
-License
 
 Features
 🔗 Lossless Compression & Decompression: 100% data preservation—original file restored upon decompressing.
